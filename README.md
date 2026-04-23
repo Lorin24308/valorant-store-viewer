@@ -162,19 +162,11 @@ data/
 
 
 
-
-
 \## 🚀 Como executar
-
-
-
-```bash
 
 pip install -r requirements.txt
 
 python -m app.main
-
-
 
 
 
