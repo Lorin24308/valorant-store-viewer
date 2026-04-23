@@ -1,0 +1,16 @@
+# ambiente virtual
+.venv/
+
+# cache python
+__pycache__/
+*.pyc
+
+# arquivos temporários
+data/temp/
+
+# screenshots (opcional)
+data/screenshots/
+
+# backups
+backup/
+backup.zip
